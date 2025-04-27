@@ -90,17 +90,3 @@ Follow these steps to set up and run the Cricket Player Performance Analyzer loc
     This will start the Dash development server. Open your web browser and go to the address provided in the terminal output (usually `http://127.0.0.1:8050/` or similar).
 
 You can now explore the Interactive Cricket Performance Analysis Dashboard and interact with the various analysis modules.
-
-## Screenshots
-
-*[Optional: Add screenshots of the dashboard interface here]*
-Example:
-![Dashboard Home](figure1.png) *(Assuming Figure 1 from the report is saved as figure1.png)*
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for suggestions or bug reports.
-
-## License
-
-*[Optional: Specify the license for the project, e.g., MIT License]*
