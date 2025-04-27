@@ -41,8 +41,8 @@ Follow these steps to set up and run the Cricket Player Performance Analyzer loc
 1.  **Clone the Repository:**
     Clone this repository to your local machine or download the source code ZIP.
     ```bash
-    git clone [YOUR_GITHUB_REPO_LINK_HERE]
-    cd [repository-folder-name]
+    git clone https://github.com/RudranshGoel/CS661-Project-Group-2
+    cd CS661-Project-Group-2
     ```
     (If you downloaded the ZIP, extract it and navigate to the extracted folder in your terminal).
 
