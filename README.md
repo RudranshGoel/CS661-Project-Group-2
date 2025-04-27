@@ -48,7 +48,7 @@ Follow these steps to set up and run the Cricket Player Performance Analyzer loc
 
 2.  **Download the Preprocessed Data Files:**
     The dashboard relies on preprocessed CSV data files. Download these files from the following link:
-    [https://drive.google.com/drive/folders/13cVUXclsawjvRq_vTQorFTzAwDpkKdzG](Link to download the necessary CSV files)
+    [Link to download the necessary CSV files](https://drive.google.com/drive/folders/13cVUXclsawjvRq_vTQorFTzAwDpkKdzG)
 
 3.  **Set up the Data Directory:**
     Create a folder named `data` inside the main project directory (the one you cloned or extracted). Place *all* the downloaded CSV files directly into this `data/` folder. The application expects the data to be present here.
